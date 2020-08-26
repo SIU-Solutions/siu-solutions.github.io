@@ -1,0 +1,23 @@
+title: Spin It Up Solutions
+description: > 
+  Spin It Up Solutions Brochure Website
+#baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+email: siu.solutions@protonmail.com
+lang: en_US
+timezone: Australia/Melbourne
+
+safe: true
+markdown: kramdown
+sass:
+  indentWidth: 4
+  style: compressed
+  precision: 10
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - run-local.sh
+  - README.md
