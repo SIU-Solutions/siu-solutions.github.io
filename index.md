@@ -75,11 +75,11 @@ sections:
     members:
       - title: Ian Hogers
         text: Website Design and Development
-        image: assets/img/members/person1.jpg
+        image: assets/img/members/ian.jpg
         url: 'https://ianhogers.com/'
       - title: Aaron Robertson
         text: Infrastructure and Security
-        image: assets/img/members/person2.jpg
+        image: assets/img/members/aaron.jpg
         url: 'https://www.linkedin.com/in/aaron-robertson/'
 
   - type: contact.html
