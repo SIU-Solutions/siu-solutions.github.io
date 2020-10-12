@@ -20,7 +20,7 @@
           <div class="text-muted mb-0">
             {{ service.text | markdownify }}
             {% if service.url %}
-              <a href="{{ service.url }}"><i class="fas fa-link"></i></a>
+              <a href="{{ service.url }}"><i class="fas fa-link"></i>{% if service.urltext %} {{ service.urltext }}{% endif %}</a>
             {% endif %}
           </div>
         </div>

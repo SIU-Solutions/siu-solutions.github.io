@@ -5,9 +5,10 @@
 header:
 - title: Services
   url: /#services
-- title: Members
-  url: /#members
-- title: Contacts
-  url: /#contacts
-- title: Links
-  url: /links
+- title: Technologies
+  url: /technologies
+- title: Contact
+  url: /#contact
+# - title: Links
+#   url: /links
+
