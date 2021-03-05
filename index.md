@@ -87,6 +87,6 @@ sections:
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:siu.solutions@protonmail.com
+      url: mailto:info@siu-solutions.com.au
 
 ---
